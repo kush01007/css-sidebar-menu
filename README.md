@@ -28,8 +28,10 @@ This project uses a checkbox-based toggle system to open and close the sidebar w
 
 ## Live Demo
 
-Add your live link here
+https://css-sidebar-menu-sable.vercel.app/
 
 ## Screenshots
 
-Add screenshot here
+<img width="1896" height="897" alt="Screenshot 2026-06-17 024158" src="https://github.com/user-attachments/assets/909a50c6-25e8-4667-a2f7-f0c563922304" />
+<img width="1895" height="881" alt="Screenshot 2026-06-17 024225" src="https://github.com/user-attachments/assets/867743ad-0b23-42f9-8859-155da20e31b8" />
+
